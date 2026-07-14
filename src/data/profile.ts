@@ -4,7 +4,7 @@ export const profile = {
   title: "Senior Full Stack Engineer",
   location: "Philippines · US Remote",
   email: "hudswillington@gmail.com",
-  phone: "+63 953 894 3019",
+  phone: "+63 947 757 1921",
   headline:
     "I build scalable SaaS products, cloud apps, and practical AI features for remote US teams.",
   summary:
@@ -12,8 +12,8 @@ export const profile = {
   availability: "Open to senior remote roles",
   resumeUrl: "/resume/Van_Jally_Opon.pdf",
   social: {
-    linkedin: "https://linkedin.com/in/",
-    github: "https://github.com/",
+    linkedin: "https://linkedin.com/in/van-jally-opon",
+    github: "https://github.com/katt204",
   },
   about: [
     "I am a Senior Full Stack Engineer with a bit over eight years of experience building SaaS and web products for remote US teams. I am most comfortable owning a feature from start to finish: frontend, backend, data, and release.",
