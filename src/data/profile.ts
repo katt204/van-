@@ -12,7 +12,7 @@ export const profile = {
   availability: "Open to senior remote roles",
   resumeUrl: "/resume/Van_Jally_Opon.pdf",
   social: {
-    linkedin: "https://linkedin.com/in/van-jally-opon",
+    linkedin: "https://www.linkedin.com/in/van-jally-opon-8840253b5/",
     github: "https://github.com/katt204",
   },
   about: [
