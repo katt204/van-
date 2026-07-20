@@ -4,7 +4,7 @@ export const profile = {
   title: "Senior Full Stack Engineer",
   location: "Philippines · US Remote",
   email: "hudswillington@gmail.com",
-  phone: "+63 947 757 1921",
+  phone: "+63 963 103 9083",
   headline:
     "I build scalable SaaS products, cloud apps, and practical AI features for remote US teams.",
   summary:
